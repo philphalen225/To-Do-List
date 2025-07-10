@@ -1,1 +1,2 @@
 # To-Do-List
+ce projet est fait dans le but d'améliorerer mes compétences en js du coup et jais, rencontré quelques difficultés au niveaux du design je ne c'est pas trop comment les expliqués mais je suis ouvert a tous les conseils vous pouvez voir le resultat sur github page 
